@@ -1,0 +1,20 @@
+nav{
+	background-color: rgb(45,41,38);
+	
+}
+	#menuLogo {
+		color:white;
+		text-align:center;
+		font-size:35px;
+	}
+	.menuItem{
+		width:100px;
+		text-align:center;
+		height:60px;
+		padding-top:16px;
+		color:white;
+	}
+		.menuItem:hover{
+			background-color: rgb(66,62,59);
+			color:rgb(246,212,103);
+		}

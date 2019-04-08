@@ -1,0 +1,28 @@
+ body {
+	 font-family: verdana;
+	 font-size: 25px; 
+ }
+ 
+ #formValidator {
+	 width: 650px;
+	 margin: 0 auto;
+	 border: 1px solid black;
+ }
+ 
+	.form-element {
+		margin-bottom: 10px;
+	}
+	
+		label {
+			width:300px;
+			float: left;
+		}
+		
+		input {
+			width: 300px;
+			font-size: 20px;
+		}
+		
+		#submitButton {
+			margin-left: 300px;
+		}
